@@ -14,7 +14,7 @@ spec:
     metadata:
       labels:
         app: train-schedule
-        track: stable
+        track: canary
     spec:
       containers:
       - name: train-schedule
